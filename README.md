@@ -8,7 +8,7 @@ This system supports virtual knowlege exchange meetups where water system expert
 stakeholders in the Unites States and Kenya, and globally where specific problems can be identified and solutions needed to address the human right of drinking water, waste water and sewage treatment, and solid waste managment.  We welcome you to download this software and experiment with it if that is your interest.
 
 
-# Please contact Greg Willson via greg@ecocity.com directly or review content at https://scdhub.org to become more familiar with our existing solutuions lirary process and educational clinic process.
+### Please contact Greg Willson via greg@ecocity.com directly or review content at https://scdhub.org to become more familiar with our existing solutuions lirary process and educational clinic process.
 
 
 # Areas of Emphasis: What we are doing - Extension for Community Heath Outcomes' Hub and Spoke model
@@ -17,15 +17,16 @@ With the success of ECHO program and its rapid growth addressing difficult commu
 adivsement of Prof. Dr. Bernard Amadei of CU Boulder,  and the emergent Peace Engineering Programs at Purdue University 
 and University of New Mexico, The Peace Water Program was created to address the water crisis in the US
 
-Issues to address and discuss:
+# US Water Issues:
 
-# Flint Michigan
+## Flint Michigan
 
-https://phys.org/news/2020-10-safety-flint-years-crisis.html
 
 October 29, 2020, Doubts about safety of Flint's water 6 years after crisis
 - by John Biers 
-""Sometimes the water still smells like a sewer and sometimes it has flecks in it," said activist JoJo Freeman, whose daughter still breaks out in hives after a shower."
+https://phys.org/news/2020-10-safety-flint-years-crisis.html
+
+"Sometimes the water still smells like a sewer and sometimes it has flecks in it," said activist JoJo Freeman, whose daughter still breaks out in hives after a shower."
 "The US Environmental Protection Agency (EPA) says it is safe to wash hands and bathe with unfiltered water, but urges against cooking or brushing teeth with it. Like the state, the EPA also urges use of a filter."  "Do not drink unfiltered water. It's not safe!" - US EPA Website
 
 https://www.sciencedaily.com/releases/2018/02/180205151557.htm
@@ -38,12 +39,10 @@ https://www.nrdc.org/Flint
 Notes: ( from Timeline) Boing the water to kill bacteria increases the aming of lead 
 
 
-Ferguson MO
 Newark NJ
 
 
-
-p We developed a model based on ECHO's 
+We developed a model based on ECHO's 
 The ECHO program originated fron the University of New Mexico as a way to address the challenge of properly caring f
 
 tea hub and spoke model virtual meeting in support water system improvements
