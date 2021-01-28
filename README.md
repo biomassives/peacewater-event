@@ -1,10 +1,64 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fvirtual-event-starter-kit&project-name=virtual-event-starter-kit&repository-name=virtual-event-starter-kit&demo-title=Virtual%20Event%20Starter%20Kit&demo-description=Jumpstart%20your%20virtual%20event%20and%20scale%20to%20any%20size%20with%20Next.js%20and%20Vercel.&demo-url=https%3A%2F%2Fdemo.vercel.events%2F&demo-image=https%3A%2F%2Fdemo.vercel.events%2Fdeploy.png&integration-ids=oac_I1h8Dm9Mf30VNb3xQ0hebYvS&external-id=%7B%22manifest%22%3A%20%22https%3A%2F%2Fraw.githubusercontent.com%2Fvercel%2Fvirtual-event-starter-kit%2Fmain%2Fdatocms.json%22%7D)
 
-# [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit)
+# Extension for Community Water Outcomes (ECWO)
 
-### Demo: https://demo.vercel.events
+# [Peacewater Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit)
 
-This virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
+This system supports virtual knowlege exchange meetups where water system experts are invited to meet with community
+stakeholders in the Unites States and Kenya, and globally where specific problems can be identified and solutions needed to address the human right of drinking water, waste water and sewage treatment, and solid waste managment.  We welcome you to download this software and experiment with it if that is your interest.
+
+
+# Please contact Greg Willson via greg@ecocity.com directly or review content at https://scdhub.org to become more familiar with our existing solutuions lirary process and educational clinic process.
+
+
+# Areas of Emphasis: What we are doing - Extension for Community Heath Outcomes' Hub and Spoke model
+
+With the success of ECHO program and its rapid growth addressing difficult community health challenges, and under the
+adivsement of Prof. Dr. Bernard Amadei of CU Boulder,  and the emergent Peace Engineering Programs at Purdue University 
+and University of New Mexico, The Peace Water Program was created to address the water crisis in the US
+
+Issues to address and discuss:
+
+# Flint Michigan
+
+https://phys.org/news/2020-10-safety-flint-years-crisis.html
+
+October 29, 2020, Doubts about safety of Flint's water 6 years after crisis
+- by John Biers 
+""Sometimes the water still smells like a sewer and sometimes it has flecks in it," said activist JoJo Freeman, whose daughter still breaks out in hives after a shower."
+"The US Environmental Protection Agency (EPA) says it is safe to wash hands and bathe with unfiltered water, but urges against cooking or brushing teeth with it. Like the state, the EPA also urges use of a filter."  "Do not drink unfiltered water. It's not safe!" - US EPA Website
+
+https://www.sciencedaily.com/releases/2018/02/180205151557.htm
+Date:    February 5, 2018
+Source:    Wayne State University - Office of the Vice President for Research
+"majority of Legionnaires' disease cases that occurred during the 2014-15 outbreak in Genesee County, Mich., can be attributed to the change in of the City of Flint's drinking water supply to the Flint River." "..sampling in 2016 is not readily detected by common diagnostic tests for Legionella"
+
+
+https://www.nrdc.org/Flint
+Notes: ( from Timeline) Boing the water to kill bacteria increases the aming of lead 
+
+
+Ferguson MO
+Newark NJ
+
+
+
+p We developed a model based on ECHO's 
+The ECHO program originated fron the University of New Mexico as a way to address the challenge of properly caring f
+
+tea hub and spoke model virtual meeting in support water system improvements
+experts exchance provides a 
+
+Virtual Conference Event App is 
+
+
+### Live at: https://peacewater-event.vercel.app/
+
+
+
+
+
+a fork of Vercel's of virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
 
 - Multiple stages with an embedded YouTube stream
 - Sponsor expo, including individual virtual booths
